@@ -5,4 +5,5 @@ Obsahuje zatím:
     * Ahoj
     * Světe
     * [Vojtík](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-![Borec](./img/pslib.jpg)
+
+![Borec](./img/pslib.jpg)Cancel changes
