@@ -1,5 +1,5 @@
 # Popis
-Odkaz na [info](./info.html)
+Odkaz na [info](https://pslib-cz.github.io/2021l4web-repository-skills-vojtechsuchanek/info.html)
 
 | Změna  | popis |
 | ------------- | ------------- |
