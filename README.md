@@ -21,4 +21,4 @@ Odkaz na [info](https://pslib-cz.github.io/2021l4web-repository-skills-vojtechsu
 </body>
 </html>
 ```
-![Fotka](img\pslib.jpg)
+![Fotka](img/pslib.jpg)
